@@ -273,6 +273,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _Team member
+  - scope:
+      path: ""
+      type: Team member
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
