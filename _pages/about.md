@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "IresX (intelligent&reliable energy system) leading by Jin Zhao"
+title: "IresX (intelligent&reliable energy system) lab"
 author_profile: true
 redirect_from: 
   - /about/
