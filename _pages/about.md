@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "IresX (intelligent&reliable energy system) lab"
+title: "IResX (intelligent&reliable energy system) Lab"
 author_profile: true
 redirect_from: 
   - /about/
