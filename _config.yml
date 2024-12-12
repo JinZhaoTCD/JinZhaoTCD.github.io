@@ -276,7 +276,7 @@ defaults:
   # _Team member
   - scope:
       path: ""
-      type: Team member
+      type: TeamMember
     values:
       layout: single
       author_profile: true
