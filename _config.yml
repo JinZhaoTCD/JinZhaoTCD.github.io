@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "AP / Site Title"
+locale                   : "en-Ireland"
+title                    : "IResX Lab"
 title_separator          : "-"
 name                     : &name "Jin Zhao"
 description              : &description "personal description"
