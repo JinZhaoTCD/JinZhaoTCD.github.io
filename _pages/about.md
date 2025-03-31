@@ -16,4 +16,4 @@ Our goal is to secure energy system operation using emerging techniques such as 
 | ![](https://github.com/JinZhaoTCD/JinZhaoTCD.github.io/blob/master/images/EPA_logo.jpg) | ![](https://github.com/JinZhaoTCD/JinZhaoTCD.github.io/blob/master/images/Connect_logo.jpg) | ![](https://github.com/JinZhaoTCD/JinZhaoTCD.github.io/blob/master/images/SFI_logo.jpg) |
 |---|---|---|
 
-| <img src="EPA_logo.jpg" width="150"> | <img src="Connect_logo.jpg" width="150"> | <img src="SFI_logo.jpg" width="150"> |
+| <img src="EPA_logo.jpg" width="150" height="200"> | <img src="Connect_logo.jpg" width="150" height="200"> | <img src="SFI_logo.jpg" width="150" height="200"> |
