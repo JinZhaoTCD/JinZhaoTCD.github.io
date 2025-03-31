@@ -13,7 +13,6 @@ IresX (Intelligent & resilient energy system) Lab is a research group led by Dr.
 Our goal is to secure energy system operation using emerging techniques such as AI, optimization, and statistics.
 
 
-| ![](https://github.com/JinZhaoTCD/JinZhaoTCD.github.io/blob/master/images/EPA_logo.jpg) | ![](https://github.com/JinZhaoTCD/JinZhaoTCD.github.io/blob/master/images/Connect_logo.jpg) | ![](https://github.com/JinZhaoTCD/JinZhaoTCD.github.io/blob/master/images/SFI_logo.jpg) |
-|---|---|---|
 
-| <img src="EPA_logo.jpg" width="150" height="200"> | <img src="Connect_logo.jpg" width="150" height="200"> | <img src="SFI_logo.jpg" width="150" height="200"> |
+| <img src="https://github.com/JinZhaoTCD/JinZhaoTCD.github.io/blob/master/images/Irish_EPA_Logo.jpg" width="200" height="100"> | <img src="https://github.com/JinZhaoTCD/JinZhaoTCD.github.io/blob/master/images/Connect_logo.jpg" width="200" height="180"> | <img src="https://github.com/JinZhaoTCD/JinZhaoTCD.github.io/blob/master/images/SFI_logo.jpg" width="220" height="100"> |
+|---|---|---|
