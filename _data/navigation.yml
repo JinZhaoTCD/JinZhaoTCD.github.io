@@ -6,7 +6,7 @@
 
 main:
   - title: "News"
-    url: /year-archive/
+    url: /news/
 
   - title: "Team member"
     url: /TeamMember/
@@ -15,14 +15,14 @@ main:
     url: /publications/
 
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Project"
+    url: /projects/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Position"
+    url: /position/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Gallary"
+    url: /gallary/
     
   - title: "Guide"
     url: /markdown/
