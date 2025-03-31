@@ -15,3 +15,7 @@ Our goal is to secure energy system operation using emerging techniques such as 
 
 | <img src="https://JinZhaoTCD.github.io/images/Irish_EPA_Logo.jpg" width="200" height="100"> | <img src="https://JinZhaoTCD.github.io/images/Connect_logo.jpg" width="200" height="180"> | <img src="https://JinZhaoTCD.github.io/images/SFI_logo.jpg" width="220" height="100"> |
 |---|---|---|
+
+
+| ![Irish_EPA_Logo](/images/Irish_EPA_Logo.jpg) | ![Connect_logo](/images/Connect_logo.jpg) | ![SFI_logo](/images/SFI_logo.jpg) |
+|--------------------------------|--------------------------------|--------------------------------|
