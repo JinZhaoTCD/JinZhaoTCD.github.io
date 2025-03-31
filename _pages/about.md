@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![](https://github.com/JinZhaoTCD/JinZhaoTCD.github.io/blob/master/images/TCD_logo.png)
+![TCD Logo](https://JinZhaoTCD.github.io/images/TCD_logo.png)
 
 IresX (Intelligent & resilient energy system) Lab is a research group led by Dr. Jin Zhao at Trinity College Dublin, Ireland.
 Our goal is to secure energy system operation using emerging techniques such as AI, optimization, and statistics.
