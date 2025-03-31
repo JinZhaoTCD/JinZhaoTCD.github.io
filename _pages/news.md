@@ -8,11 +8,19 @@ This page lists activities of group members.
 
 ---
 
-# Principal Investigator (PI/Co-PI)
+* **March 28, 2025**
 
-* **Jan 15, 2025**
+Invited by IEEE PES Big Data Subcommittee, Dr. Zhao gives a talk on "Role of Data in Extreme Weather Defense of Power Systems".
 
-Welcome! Dr. Yang Shen join in IresX as an Research Fellow.
+
+* **March 27, 2025**
+
+Dr. Zhao gives a TCD senior common room research salon talk on "AI, extreme weather and green electricity".
+
+
+* **Feb 20, 2025**
+
+Invited by GOV Department of the Environment, Climate and Communications (DECC), Dr. Zhao will give a talk on IEA workshop Ireland's energy security under transitions towards 2035.
 
 
 * **Jan 31, 2025**
