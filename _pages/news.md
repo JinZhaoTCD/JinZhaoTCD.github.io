@@ -25,7 +25,7 @@ Invited by GOV Department of the Environment, Climate and Communications (DECC),
 
 * **Jan 31, 2025**
 
-Good new! IresX released the first [dataset](https://figshare.com/articles/dataset/Renewable_energy_Weather_Power_system_blackout_large-scale_outage_/25628700) and the corresponding [code] (https://github.com/JinZhaoTCD/NE_WeatherBlackout_Code/tree/main) for weather, renewables, outage analysis across the 48 continental U.S. states during 20 years
+Good new! IresX released the first [dataset](https://figshare.com/articles/dataset/Renewable_energy_Weather_Power_system_blackout_large-scale_outage_/25628700) and the corresponding [code](https://github.com/JinZhaoTCD/NE_WeatherBlackout_Code/tree/main) for weather, renewables, outage analysis across the 48 continental U.S. states during 20 years
 This data set will be of interest to you if you conduct power system resilience studies, such as weather-impacted system operations and blackouts in renewable penetrated power grids.
 
 
