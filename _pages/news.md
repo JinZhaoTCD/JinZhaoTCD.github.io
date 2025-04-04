@@ -7,6 +7,10 @@ author_profile: true
 This page lists activities of group members.
 
 ---
+* **April 3, 2025**
+
+Prof. Gen Li from Technical University of Denmark gave a talk on "Pathway to an academic career".
+
 
 * **March 28, 2025**
 
