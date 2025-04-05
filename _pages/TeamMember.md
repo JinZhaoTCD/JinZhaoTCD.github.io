@@ -10,7 +10,7 @@ Team members in IresX lab.
 
 # Research Fellow
 
-![Yang Shen](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
+![YangShen](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
 * **Dr. Yang Shen**
 
 Research focus: Resilience of coupled communication and power system. [Personal website](https://scholar.google.com/citations?user=anzwlAMAAAAJ&hl=en).
@@ -24,11 +24,13 @@ Research focus: Climate adaptive power systems.
 
 # PhD students
 
+<img src="https://JinZhaoTCD.github.io/images/XiWang.jpg" width="150" height="150"> 
 
 * **Xi Wang**
 
-Weather involved power system cascading failure analysis
+Weather involved power system cascading failure analysis.[Personal website](https://scholar.google.com.hk/citations?user=qC4S5aEAAAAJ&hl=en).
 
+![Xuzhe](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
 * **Xuzhe Song**
 
 AI-driven energy management of low-carbon microgrids
