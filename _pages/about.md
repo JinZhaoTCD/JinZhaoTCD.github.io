@@ -16,10 +16,10 @@ Dr. Jin Zhao is an Assistant Professor at Trinity College Dublin. She is the Ale
 
 We are grateful for funding from EPA, CONNECT center, SFI.
 
-<img src="https://JinZhaoTCD.github.io/images/Irish_EPA_Logo.jpg" width="200" height="100">  <img src="https://JinZhaoTCD.github.io/images/Connect_logo.jpg" width="200" height="180"> <img src="https://JinZhaoTCD.github.io/images/SFI_logo.jpg" width="220" height="100"> <img src="https://JinZhaoTCD.github.io/images/Humboldt.png" width="220" height="200"> 
+<img src="https://JinZhaoTCD.github.io/images/Irish_EPA_Logo.jpg" width="200" height="100">  <img src="https://JinZhaoTCD.github.io/images/Connect_logo.jpg" width="200" height="180"> <img src="https://JinZhaoTCD.github.io/images/SFI_logo.jpg" width="220" height="100"> <img src="https://JinZhaoTCD.github.io/images/Humboldt.png" width="200" height="150"> 
 
 
 We thank our colloberators from USA, Germany, and Ireland.
 
 <img src="https://JinZhaoTCD.github.io/images/NREL.jpg" width="200" height="90">  <img src="https://JinZhaoTCD.github.io/images/PIK.png" width="200" height="100"> <img src="https://JinZhaoTCD.github.io/images/UTK.png" width="220" height="100"> 
-<img src="https://JinZhaoTCD.github.io/images/UCD.jpg" width="220" height="120"> <img src="https://JinZhaoTCD.github.io/images/CURENT.jpg" width="220" height="120"> <img src="https://JinZhaoTCD.github.io/images/ie3.png" width="400" height="120"> 
+<img src="https://JinZhaoTCD.github.io/images/UCD2.jpg" width="100" height="120"> <img src="https://JinZhaoTCD.github.io/images/CURENT.jpg" width="150" height="100"> <img src="https://JinZhaoTCD.github.io/images/ie3.png" width="350" height="80"> 
