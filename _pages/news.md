@@ -7,6 +7,11 @@ author_profile: true
 This page lists activities of group members.
 
 ---
+* **April 8, 2025**
+
+Congrats! to Dr. Zhao on starting the role of Associate Editor for the flagship journal IEEE Transactions on Smart Grid.
+
+
 * **April 3, 2025**
 
 Prof. Gen Li from Technical University of Denmark gave a talk on "Pathway to an academic career".
