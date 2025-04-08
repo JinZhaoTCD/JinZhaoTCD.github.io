@@ -20,7 +20,7 @@ For Postdoc (expected start in early 2026):
 
 Required Qualifications: 1) PhD degree in electrical/environmental engineering, and 2) Good English communication ability. Preferred Qualifications: 1) Top-tier publication track with related topics, and 2) highly motivated for research.
 
-For interested candidates, please send a CV with publications and two referees to zhaoj6@tcd.ie. Please use “Postdoc Application + Name” in the email's subject line.
+For interested candidates, please send a CV with publications and two referees to **zhaoj6@tcd.ie**. Please use “Postdoc Application + Name” in the email's subject line.
 
 ---
 
@@ -33,6 +33,6 @@ Preferred Qualifications:
 
 * **All the PhD positions for spring and autumn 2025 have been filled**
 
-Please send your CV to zhaoj6@tcd.ie to see future opportunities. Please use “Doctoral Application + Name” in the email's subject line.
+Please send your CV to **zhaoj6@tcd.ie** to see future opportunities. Please use “Doctoral Application + Name” in the email's subject line.
 
 
