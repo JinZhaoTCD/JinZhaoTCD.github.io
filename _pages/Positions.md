@@ -33,6 +33,6 @@ Preferred Qualifications:
 
 * **All the PhD positions for spring and autumn 2025 have been filled**
 
-Please send your CV to zhaoj6@tcd.ie to see future opputunities. Please use “Doctoral Application + Name” in the email's subject line.
+Please send your CV to zhaoj6@tcd.ie to see future opportunities. Please use “Doctoral Application + Name” in the email's subject line.
 
 
