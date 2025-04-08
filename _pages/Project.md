@@ -1,65 +1,35 @@
 ---
 layout: archive
-title: "Team member"
-permalink: /TeamMember/
+title: "Project"
+permalink: /projects/
 author_profile: true
 ---
-Team members in IresX lab.
+Ongoing projects in IresX
 
 ---
 
-# Research Fellow
+# CRIE
+<img src="https://JinZhaoTCD.github.io/images/CRIE.jpg" width="550" height="350"> 
 
-![YangShen](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
-* **Dr. Yang Shen**
+* **Enhance climate adaptation and extreme weather resilience of highly renewable penetrated electricity system**
 
-Research focus: Resilience of coupled communication and power system. [Personal website](https://scholar.google.com/citations?user=anzwlAMAAAAJ&hl=en).
+For details:
+[CRIE project website](https://scholar.google.com/xxxxxxxx).
 
-* **Dr. IresX -- please see open position**
-
-Research focus: Climate adaptive power systems.
-
-
----
-
-# PhD students
-
-<img src="https://JinZhaoTCD.github.io/images/XiWang.jpg" width="150" height="150"> 
-
-* **Xi Wang**
-
-Weather involved power system cascading failure analysis.[Personal website](https://scholar.google.com.hk/citations?user=qC4S5aEAAAAJ&hl=en).
-
-![Xuzhe](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
-* **Xuzhe Song**
-
-AI-driven energy management of low-carbon microgrids
-
-* **PhD 3**
-
-XXXXXXXXXX
-
-* **PhD 4**
-
-XXXXXXXXXXXXX
 
 
 ---
 
-# Visiting scholars 
+# RECS
+<img src="https://JinZhaoTCD.github.io/images/ECS.jpg" width="550" height="450"> 
 
-* **2025-2026**
+* **Interpretable machine learning supported resilient power restoration of coupled electricity and communication systems  with mobile devices**
 
-Yuerong Zhu (Xi'an Jiaotong University)
+For details:
+[ECS project website](https://scholar.google.com/xxxxxxxx).
 
-* **2024-2025**
 
-Haiyang Wan (North China Electric Power University)
+---
 
-Shimiao Chen (Central South University)
 
-Ran Zhu (Southeast University)
 
-Dr. Xiao Hu (Northeast Electric Power University)
-
-Hongye Zhao (Dalian University of Technology)
