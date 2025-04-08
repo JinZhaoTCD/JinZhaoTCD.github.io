@@ -35,13 +35,15 @@ Weather involved power system cascading failure analysis.[Personal website](http
 
 AI-driven energy management of low-carbon microgrids
 
-* **PhD 3**
+![Kexing](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
+* **Kexing Li(expected sep.2025)**
 
-XXXXXXXXXX
+Coordinated operation of coupled transportation and power grids with high renewable energy penetration
 
-* **PhD 4**
+![Kexing](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
+* **Could be you!**
 
-XXXXXXXXXXXXX
+To be determinded
 
 
 ---
