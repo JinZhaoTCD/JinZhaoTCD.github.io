@@ -1,65 +1,38 @@
 ---
 layout: archive
-title: "Team member"
-permalink: /TeamMember/
+title: "Position"
+permalink: /position/
 author_profile: true
 ---
-Team members in IresX lab.
+Open opsitions in IresX lab.
 
 ---
 
-# Research Fellow
-
-![YangShen](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
-* **Dr. Yang Shen**
-
-Research focus: Resilience of coupled communication and power system. [Personal website](https://scholar.google.com/citations?user=anzwlAMAAAAJ&hl=en).
-
-* **Dr. IresX -- please see open position**
-
-Research focus: Climate adaptive power systems.
+# Research Fellow positions
 
 
----
+* **Postdoctoral position 1**
 
-# PhD students
+Our lab is looking for a 3-year postdoctoral researcher working on a project related to enhancing climate adaptation and extreme weather resilience of highly renewable penetrated power systems.
+The successful candidate will work closely with Environment Protection Agency (EPA) in Ireland.
 
-<img src="https://JinZhaoTCD.github.io/images/XiWang.jpg" width="150" height="150"> 
+For Postdoc (expected start in early 2026):
 
-* **Xi Wang**
+Required Qualifications: 1) PhD degree in electrical/environmental engineering, and 2) Good English communication ability. Preferred Qualifications: 1) Top-tier publication track with related topics, and 2) highly motivated for research.
 
-Weather involved power system cascading failure analysis.[Personal website](https://scholar.google.com.hk/citations?user=qC4S5aEAAAAJ&hl=en).
-
-![Xuzhe](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
-* **Xuzhe Song**
-
-AI-driven energy management of low-carbon microgrids
-
-* **PhD 3**
-
-XXXXXXXXXX
-
-* **PhD 4**
-
-XXXXXXXXXXXXX
-
+For interested candidates, please send a CV with publications and two referees to zhaoj6@tcd.ie. Please use “Postdoc Application + Name” in the email's subject line.
 
 ---
 
-# Visiting scholars 
+# PhD student positions
 
-* **2025-2026**
+Required Qualifications of PhD: 
+1) Good English communication ability. 2) highly motivated for research.
+Preferred Qualifications:
+1) Mater degree in electrical engineering. 2) Top-tier publication track with related topics
 
-Yuerong Zhu (Xi'an Jiaotong University)
+* **All the PhD positions for spring and autumn 2025 have been filled**
 
-* **2024-2025**
+Please send your CV to zhaoj6@tcd.ie to see future opputunities. Please use “Doctoral Application + Name” in the email's subject line.
 
-Haiyang Wan (North China Electric Power University)
 
-Shimiao Chen (Central South University)
-
-Ran Zhu (Southeast University)
-
-Dr. Xiao Hu (Northeast Electric Power University)
-
-Hongye Zhao (Dalian University of Technology)
