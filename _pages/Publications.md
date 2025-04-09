@@ -1,67 +1,37 @@
 ---
 layout: archive
-title: "Team member"
-permalink: /TeamMember/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 ---
-Team members in IresX lab.
+**Selected publications in IresX lab**
+
+**First and last authors are recognized as senior authors** 
 
 ---
 
-# Research Fellow
+# 2025
 
-![YangShen](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
-* **Dr. Yang Shen**
-
-Research focus: Resilience of coupled communication and power system. [Personal website](https://scholar.google.com/citations?user=anzwlAMAAAAJ&hl=en).
-
-* **Dr. IresX -- please see open position**
-
-Research focus: Climate adaptive power systems.
+* H. Zhao, S. Liao, B. Liu, Z. Fang, H. Wang, C. Cheng, J. Zhao, “Multi-agent optimization for short-term generation scheduling in hydropower-dominated hydro-wind-solar supply systems with considering spatiotemporal coupling constraints,” Applied Energy, vol. 382, 2025.
 
 
 ---
 
-# PhD students
+# 2024
 
-<img src="https://JinZhaoTCD.github.io/images/XiWang.jpg" width="150" height="150"> 
-
-* **Xi Wang**
-
-Weather involved power system cascading failure analysis.[Personal website](https://scholar.google.com.hk/citations?user=qC4S5aEAAAAJ&hl=en).
-
-![Xuzhe](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
-* **Xuzhe Song**
-
-AI-driven energy management of low-carbon microgrids
-
-![Kexing](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
-* **Kexing Li(expected sep.2025)**
-
-Coordinated operation of coupled transportation and power grids with high renewable energy penetration
-
-![Kexing](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
-* **Could be you!**
-
-To be determinded
+* J. Zhao, F Li, Q Zhang, “Impacts of renewable energy resources on the weather vulnerability of power systems,” Nature Energy, pp.1-8, 2024.
+  
+* W. Li, H. Han, Y. Sun, S. Chen, H. Liu, X. Zheng, Y. Liu, J. Zhao, “A novel fault diagnosis scheme based on local fault currents for DC microgrids," IEEE Trans. on Power Deliv., early access, 2024.
+  
+* X. Hu, J. Yang, Y. Gao, M. Zhu, Q. Zhang, H. Chen, J. Zhao, “Adaptive power flow analysis for power system operation based on graph deep learning,” Int. J. Electr. Power Energy Syst, 2024.
+  
+* Q Zhang, F. Li, X. Fang, J. Zhao, “Implications of electricity and gas price coupling in US New England region,” IScience, Vol. 27, issue 1, 2024.
 
 
 ---
 
-# Visiting scholars 
+# Full publication list
 
-* **2025-2026**
+You can also find our articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=vV68wh8AAAAJ&view_op=list_works&sortby=pubdate).
 
-Yuerong Zhu (Xi'an Jiaotong University)
 
-* **2024-2025**
-
-Haiyang Wan (North China Electric Power University)
-
-Shimiao Chen (Central South University)
-
-Ran Zhu (Southeast University)
-
-Dr. Xiao Hu (Northeast Electric Power University)
-
-Hongye Zhao (Dalian University of Technology)
