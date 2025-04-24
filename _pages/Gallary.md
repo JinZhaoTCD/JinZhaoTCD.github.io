@@ -11,7 +11,7 @@ Activities in IresX lab.
 
 ![Gen](https://JinZhaoTCD.github.io/images/Gen_Visit.jpg)
 * **04/04/2025**
-Prof. Gen Li gave a talk to IresX lab
+Prof. Gen Li from Technical University of Denmark (DTU) gave a talk to IresX lab
 
 
 ---
