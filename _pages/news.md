@@ -7,6 +7,10 @@ author_profile: true
 This page lists activities of group members.
 
 ---
+* **May 2, 2025**
+Prof. Fangxing (Fran) Li, John W. Fisher Professor at the University of Tennessee and Director of CURENT visited TCD and gave a seminar on "Virtual Inertia Scheduling (VIS) for IBR-Penetrated Low-Inertia Power Systems".
+
+
 * **April 8, 2025**
 
 Congrats! to Dr. Zhao on starting the role of Associate Editor for the flagship journal IEEE Transactions on Smart Grid.
