@@ -10,7 +10,7 @@ Team members in IresX lab.
 
 # Research Fellow
 
-![YangShen](https://JinZhaoTCD.github.io/images/YangShen.jpg)
+<img src="https://JinZhaoTCD.github.io/images/YangShen.jpg" width="150" height="150"> 
 * **Dr. Yang Shen**
 
 Research focus: Resilience of coupled communication and power system. [Personal website](https://scholar.google.com/citations?user=anzwlAMAAAAJ&hl=en).
