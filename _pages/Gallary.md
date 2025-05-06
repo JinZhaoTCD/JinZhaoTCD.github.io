@@ -8,7 +8,7 @@ Activities in IresX lab.
 
 ---
 # Seminars
-![FranLi](https://JinZhaoTCD.github.io/images/FranLi_Visit.jpg)
+![Fran](https://JinZhaoTCD.github.io/images/FranLi_Visit.jpg)
 * **02/05/2025**
 Prof. Fran Li from The University of Tennessee, Knoxville (UTK) gave a talk to IresX lab
 
