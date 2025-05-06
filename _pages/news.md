@@ -43,7 +43,7 @@ Good new! IresX released the first [dataset](https://figshare.com/articles/datas
 This data set will be of interest to you if you conduct power system resilience studies, such as weather-impacted system operations and blackouts in renewable penetrated power grids.
 
 
-* **Jan 15, 2025**
+* **Jan 13, 2025**
 
 Welcome! Dr. Yang Shen join in IresX as an Research Fellow.
 
