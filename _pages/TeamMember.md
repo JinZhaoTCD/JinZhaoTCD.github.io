@@ -4,7 +4,7 @@ title: "Team member"
 permalink: /TeamMember/
 author_profile: true
 ---
-Team members in IresX lab.
+Team members in IResX lab.
 
 ---
 
