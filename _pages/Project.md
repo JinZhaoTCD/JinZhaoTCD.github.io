@@ -4,7 +4,7 @@ title: "Project"
 permalink: /projects/
 author_profile: true
 ---
-Ongoing projects in IresX
+Ongoing projects in IResX
 
 ---
 
