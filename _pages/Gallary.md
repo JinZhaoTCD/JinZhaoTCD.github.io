@@ -4,7 +4,7 @@ title: "Gallary"
 permalink: /gallary/
 author_profile: true
 ---
-Activities in IresX lab.
+Activities in IResX lab.
 
 ---
 # Seminars
