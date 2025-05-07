@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**Selected publications in IresX lab**
+**Selected publications in IResX lab**
 
 **First and last authors are recognized as senior authors** 
 
