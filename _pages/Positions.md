@@ -4,7 +4,7 @@ title: "Position"
 permalink: /position/
 author_profile: true
 ---
-Open opsitions in IresX lab.
+Open opsitions in IResX lab.
 
 ---
 
