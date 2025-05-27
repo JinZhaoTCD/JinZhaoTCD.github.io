@@ -28,6 +28,7 @@ For interested candidates, please send a CV with publications and two referees t
 
 Required Qualifications of PhD: 
 1) Good English communication ability. 2) highly motivated for research.
+
 Preferred Qualifications:
 1) Mater degree in electrical engineering. 2) Top-tier publication track with related topics
 
