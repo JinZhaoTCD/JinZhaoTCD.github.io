@@ -26,11 +26,9 @@ For interested candidates, please send a CV with publications and two referees t
 
 # PhD student positions
 
-Required Qualifications of PhD: 
-1) Good English communication ability. 2) highly motivated for research.
+Required Qualifications of PhD: 1) Good English communication ability. 2) highly motivated for research.
 
-Preferred Qualifications:
-1) Mater degree in electrical engineering. 2) Top-tier publication track with related topics
+Preferred Qualifications: 1) Mater degree in electrical engineering. 2) Top-tier publication track with related topics
 
 * **All the PhD positions for spring and autumn 2025 have been filled**
 
