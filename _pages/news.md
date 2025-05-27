@@ -7,6 +7,10 @@ author_profile: true
 This page lists activities of group members.
 
 ---
+* **May 23, 2025**
+Great catch-up! CRIE project team had a vibrant in-person meetup filled with research sharing, good chats, and a visit to the charming Nook of Kells.
+
+
 * **May 2, 2025**
 
 Prof. Fangxing (Fran) Li, John W. Fisher Professor at the University of Tennessee and Director of CURENT visited TCD and gave a seminar on "Virtual Inertia Scheduling (VIS) for IBR-Penetrated Low-Inertia Power Systems".
@@ -50,7 +54,7 @@ Welcome! Dr. Yang Shen join in IresX as an Research Fellow.
 
 * **Jan 10, 2025**
 
-Congrats!, Miss. Hongye Zhao published a paper 'Multiagent optimization for short-term generation scheduling in hydropower-dominated hydro-wind-solar supply systems with spatiotemporal coupling constraints' on the prestigious [Applied Energy](https://www.sciencedirect.com/journal/applied-energy). [Full Article](https://www.sciencedirect.com/science/article/pii/S0306261925000546)
+Congrats! Miss. Hongye Zhao published a paper 'Multiagent optimization for short-term generation scheduling in hydropower-dominated hydro-wind-solar supply systems with spatiotemporal coupling constraints' on the prestigious [Applied Energy](https://www.sciencedirect.com/journal/applied-energy). [Full Article](https://www.sciencedirect.com/science/article/pii/S0306261925000546)
 
 
 * **Dec 01， 2024**
