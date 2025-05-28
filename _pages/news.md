@@ -9,7 +9,8 @@ This page lists activities of group members.
 ---
 * **May 28, 2025**
 
-Congrats! Mr. Ran Zhu published a paper 'Adversarial scenario generation integrated distributionally robust deep reinforcement learning for survival of critical loads' on the prestigious IEEE Transactions on Smart Grid. [Full Article](https://ieeexplore.ieee.org/abstract/document/11011524)
+Congrats! Mr. Ran Zhu published a paper 'Adversarial scenario generation integrated distributionally robust deep reinforcement learning for survival of critical loads' on IEEE Transactions on Smart Grid. [Full Article](https://ieeexplore.ieee.org/abstract/document/11011524)
+
 
 * **May 23, 2025**
 
@@ -59,7 +60,7 @@ Welcome! Dr. Yang Shen join in IresX as an Research Fellow.
 
 * **Jan 10, 2025**
 
-Congrats! Miss. Hongye Zhao published a paper 'Multiagent optimization for short-term generation scheduling in hydropower-dominated hydro-wind-solar supply systems with spatiotemporal coupling constraints' on the prestigious [Applied Energy](https://www.sciencedirect.com/journal/applied-energy). [Full Article](https://www.sciencedirect.com/science/article/pii/S0306261925000546)
+Congrats! Miss. Hongye Zhao published a paper 'Multiagent optimization for short-term generation scheduling in hydropower-dominated hydro-wind-solar supply systems with spatiotemporal coupling constraints' on the [Applied Energy](https://www.sciencedirect.com/journal/applied-energy). [Full Article](https://www.sciencedirect.com/science/article/pii/S0306261925000546)
 
 
 * **Dec 01， 2024**
