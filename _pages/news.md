@@ -7,6 +7,10 @@ author_profile: true
 This page lists activities of group members.
 
 ---
+* **May 28, 2025**
+
+Congrats! Mr. Ran Zhu published a paper 'Adversarial scenario generation integrated distributionally robust deep reinforcement learning for survival of critical loads' on the prestigious IEEE Transactions on Smart Grid. [Full Article](https://ieeexplore.ieee.org/abstract/document/11011524)
+
 * **May 23, 2025**
 
 Great catch-up! CRIE project team had a vibrant in-person meetup filled with research sharing, good chats, and a visit to the charming Nook of Kells.
