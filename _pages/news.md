@@ -8,6 +8,7 @@ This page lists activities of group members.
 
 ---
 * **May 23, 2025**
+
 Great catch-up! CRIE project team had a vibrant in-person meetup filled with research sharing, good chats, and a visit to the charming Nook of Kells.
 
 
