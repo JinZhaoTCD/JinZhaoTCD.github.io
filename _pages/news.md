@@ -9,7 +9,7 @@ This page lists activities of group members.
 ---
 * **May 28, 2025**
 
-Congrats! Mr. Ran Zhu published a paper 'Adversarial scenario generation integrated distributionally robust deep reinforcement learning for survival of critical loads' on IEEE Transactions on Smart Grid. [Full Article](https://ieeexplore.ieee.org/abstract/document/11011524)
+Congrats! Mr. Ran Zhu published a paper "Adversarial scenario generation integrated distributionally robust deep reinforcement learning for survival of critical loads" on IEEE Transactions on Smart Grid. [Full Article](https://ieeexplore.ieee.org/abstract/document/11011524)
 
 
 * **May 23, 2025**
