@@ -37,7 +37,7 @@ MS in 2024, Xi'an Jiaotong University.
 
 Weather involved power system cascading failure analysis.
 
-![Xuzhe](https://JinZhaoTCD.github.io/images/XuzheSong.jpg)
+<img src="https://JinZhaoTCD.github.io/images/XuzheSong.jpg" width="150" height="150"> 
 * **Xuzhe Song**,
 PhD student since Spring 2025
 
