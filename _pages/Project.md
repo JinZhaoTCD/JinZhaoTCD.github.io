@@ -14,7 +14,7 @@ Ongoing projects in IResX
 * **Enhance climate adaptation and extreme weather resilience of highly renewable penetrated electricity system**
 
 For details:
-[CRIE project website](https://scholar.google.com/xxxxxxxx).
+[CRIE project website](https://sites.google.com/tcd.ie/crie/home).
 
 
 
