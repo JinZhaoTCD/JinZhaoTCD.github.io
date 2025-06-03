@@ -38,6 +38,7 @@ MS in 2024, Xi'an Jiaotong University.
 Weather involved power system cascading failure analysis.
 
 <img src="https://JinZhaoTCD.github.io/images/XuzheSong.jpg" width="120" height="149"> 
+
 * **Xuzhe Song**,
 PhD student since Spring 2025
 
@@ -46,6 +47,7 @@ MS in 2024, Trinity College Dublin.
 AI-driven low-carbon resilient microgrids
 
 ![Kexing](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
+
 * **Kexing Li**,
 PhD student since Fall 2025 (expected)
 
@@ -79,3 +81,32 @@ Ran Zhu (Southeast University)
 Dr. Xiao Hu (Northeast Electric Power University)
 
 Hongye Zhao (Dalian University of Technology)
+
+---
+# Master students
+
+* **2024-2025**
+
+**Gunjan Shahapurkar**
+
+Analysis of renewable energy-based power generation during bad weather conditions 
+
+**Maryam Bhadmus**
+
+Analysis and management of data center energy consumption
+
+**Yangtian Yan**
+
+Develop deep learning techniques for electric power grid reinforcement
+
+* **2023-2024**
+
+**Anna Nolan**
+
+The Impact of Climate Conditions on Ireland’s Electricity Grid
+
+**Xuzhe Song**
+
+Develop a model-free technique for electric power flow calculation
+
+
