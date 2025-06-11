@@ -49,7 +49,7 @@ AI-driven low-carbon resilient microgrids
 ![Kexing](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
 
 * **Kexing Li**,
-PhD student since Fall 2025 (expected)
+PhD student since Fall 2025
 
 MS in 2025, Shanghai Jiao Tong University.
 
