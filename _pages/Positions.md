@@ -30,8 +30,8 @@ Required Qualifications of PhD: 1) Good English communication ability. 2) highly
 
 Preferred Qualifications: 1) Mater degree in electrical engineering. 2) Top-tier publication track with related topics
 
-* **1 fully funded PhD position, start in Sep 2025**
+* **All positions filled in 2025**
 
-Please send your CV and Transcript to **zhaoj6@tcd.ie** to see future opportunities. Please use “Doctoral Application + Name” in the email's subject line.
+Please send your CV and Transcript to **zhaoj6@tcd.ie** to see future opportunities in 2026. Please use “Doctoral Application + Name” in the email's subject line.
 
 
