@@ -10,7 +10,7 @@ Activities in IResX lab.
 # Academic activities
 ![Yang](https://JinZhaoTCD.github.io/images/Shen Yang Power Tech250701.jpg)
 * **01/07/2025**
-Dr. Yang Shen delivered a presentation on PowerTech 2025 conference.
+Dr. Yang Shen delivered a presentation on PowerTech 2025 conference
 
 
 ![Chen-Ching](https://JinZhaoTCD.github.io/images/Chen-Ching Liu Visit250620.jpg)
