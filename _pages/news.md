@@ -7,6 +7,16 @@ author_profile: true
 This page lists activities of group members.
 
 ---
+* **July 1, 2025**
+
+Dr. Yang Shen attended the PowerTech 2025 conference in Kiel and delivered a fabulous presentation on the topic “Zero-Trust Framework for Resilient Power Systems with Anomalous Data.”
+
+
+* **June 20, 2025**
+
+Prof. Chen-Ching Liu, American Electric Power Professor Emeritus and Research Professor of Electrical Engineering at Virginia Tech, visited the IResX Lab to engage in academic exchange and explore potential collaborations.
+
+
 * **May 28, 2025**
 
 Congrats! Mr. Ran Zhu published a paper "Adversarial scenario generation integrated distributionally robust deep reinforcement learning for survival of critical loads" on IEEE Transactions on Smart Grid. [Full Article](https://ieeexplore.ieee.org/abstract/document/11011524)
