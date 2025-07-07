@@ -15,7 +15,7 @@ Dr. Yang Shen delivered a presentation on PowerTech 2025 conference
 
 ![Chen-Ching](https://JinZhaoTCD.github.io/images/Chen-Ching Liu Visit250620.jpg)
 * **20/06/2025**
-Prof. Chen-Ching Liu from Virginia Tech gave a talk to IresX lab
+Prof. Chen-Ching Liu from Virginia Tech visit us at TCD
 
 
 ![Fran](https://JinZhaoTCD.github.io/images/FranLi-Seminar.jpg)
