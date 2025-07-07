@@ -15,17 +15,17 @@ Dr. Yang Shen delivered a presentation on PowerTech 2025 conference
 
 ![Chen-Ching](https://JinZhaoTCD.github.io/images/Chen-Ching Liu Visit250620.jpg)
 * **20/06/2025**
-Prof. Chen-Ching Liu from Virginia Tech visit us at TCD
+Prof. Chen-Ching Liu from Virginia Tech visited us at TCD
 
 
 ![Fran](https://JinZhaoTCD.github.io/images/FranLi-Seminar.jpg)
 * **02/05/2025**
-Prof. Fran Li from The University of Tennessee, Knoxville (UTK) gave a talk to IresX lab
+Prof. Fran Li from The University of Tennessee, Knoxville (UTK) gave a talk to IResX lab
 
 
 ![Gen](https://JinZhaoTCD.github.io/images/Gen_Visit.jpg)
 * **04/04/2025**
-Prof. Gen Li from Technical University of Denmark (DTU) gave a talk to IresX lab
+Prof. Gen Li from Technical University of Denmark (DTU) gave a talk to IResX lab
 
 
 ---
