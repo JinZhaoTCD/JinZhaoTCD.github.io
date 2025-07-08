@@ -30,7 +30,7 @@ Prof. Gen Li from Technical University of Denmark (DTU) gave a talk to IResX lab
 
 ![ESB](https://JinZhaoTCD.github.io/images/ESB_substation.jpg)
 * **21/03/2025**
-We visited the ESB substation. Sincerely thank the friendly and highly knowledgeable ESB staffs for their exceptional support.
+We visited the ESB substation. Sincerely thank the friendly and highly knowledgeable ESB colleagues for their exceptional support.
 
 ---
 
