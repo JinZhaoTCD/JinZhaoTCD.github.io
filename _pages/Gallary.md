@@ -28,10 +28,13 @@ Prof. Fran Li from The University of Tennessee, Knoxville (UTK) gave a talk to I
 Prof. Gen Li from Technical University of Denmark (DTU) gave a talk to IResX lab
 
 
+![ESB](https://JinZhaoTCD.github.io/images/ESB_substation.jpg)
+* **21/03/2025**
+We visited the ESB substation. Sincerely thank the friendly and highly knowledgeable ESB staffs for their exceptional support.
+
 ---
 
 # Chill activities
-
 ![Glendalough](https://JinZhaoTCD.github.io/images/Glendalough2.jpg)
 * **03/2025**
 We went hiking in Glendalough and ended up walking for five hours!
