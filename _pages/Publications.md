@@ -11,6 +11,7 @@ author_profile: true
 ---
 
 # 2025
+* Y. Shen, Q. Zhou and J. Zhao, "Pioneering Climate Change Adaptation: Sustainable Power Systems Enhanced by Integrated Satellite–Terrestrial Networks," IEEE Energy Sustainability Magazine, vol. 1, no. 1, pp. 53-65, May 2025.
 
 * R. Zhu, H. Liu, M. Kang, W. Yu, J. Zhao, “Adversarial scenario generation integrated distributionally robust deep reinforcement learning for survival of critical loads,” IEEE Transactions on Smart Grid, early access, 2025.
 
