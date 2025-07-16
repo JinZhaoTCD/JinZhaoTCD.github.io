@@ -11,6 +11,9 @@ This page lists activities of group members.
 
 Dr. Yang Shen attended the PowerTech 2025 conference in Kiel and delivered a fabulous presentation on the topic “Zero-Trust Framework for Resilient Power Systems with Anomalous Data.”
 
+* **June 23, 2025**
+* 
+Congrats! Dr. Yang Shen published a paper "Pioneering Climate Change Adaptation: Sustainable Power Systems Enhanced by Integrated Satellite–Terrestrial Networks" on IEEE Energy Sustainability Magazine.[Full Article](https://ieeexplore.ieee.org/abstract/document/11040091)
 
 * **June 20, 2025**
 
@@ -20,7 +23,6 @@ Prof. Chen-Ching Liu, American Electric Power Professor Emeritus and Research Pr
 * **May 28, 2025**
 
 Congrats! Mr. Ran Zhu published a paper "Adversarial scenario generation integrated distributionally robust deep reinforcement learning for survival of critical loads" on IEEE Transactions on Smart Grid. [Full Article](https://ieeexplore.ieee.org/abstract/document/11011524)
-
 
 * **May 23, 2025**
 
