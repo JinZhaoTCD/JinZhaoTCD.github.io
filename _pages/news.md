@@ -12,8 +12,8 @@ This page lists activities of group members.
 Dr. Yang Shen attended the PowerTech 2025 conference in Kiel and delivered a fabulous presentation on the topic “Zero-Trust Framework for Resilient Power Systems with Anomalous Data.”
 
 * **June 23, 2025**
-* 
-Congrats! Dr. Yang Shen published a paper "Pioneering Climate Change Adaptation: Sustainable Power Systems Enhanced by Integrated Satellite–Terrestrial Networks" on IEEE Energy Sustainability Magazine.[Full Article](https://ieeexplore.ieee.org/abstract/document/11040091)
+
+Congrats! Dr. Yang Shen published a paper "Pioneering climate change adaptation: sustainable power systems enhanced by integrated satellite–terrestrial networks" on IEEE Energy Sustainability Magazine.[Full Article](https://ieeexplore.ieee.org/abstract/document/11040091)
 
 * **June 20, 2025**
 
