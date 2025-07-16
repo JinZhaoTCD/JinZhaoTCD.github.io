@@ -17,7 +17,7 @@ Congrats! Dr. Yang Shen published a paper "Pioneering climate change adaptation:
 
 * **June 20, 2025**
 
-Prof. Chen-Ching Liu, American Electric Power Professor Emeritus and Research Professor of Electrical Engineering at Virginia Tech, visited the IResX Lab to engage in academic exchange and explore potential collaborations.
+Prof. Chen-Ching Liu, member of the US National Academy of Engineering and American Electric Power Professor at Virginia Tech, visited the IResX Lab to engage in academic exchange and explore potential collaborations.
 
 
 * **May 28, 2025**
