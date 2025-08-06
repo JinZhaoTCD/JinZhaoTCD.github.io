@@ -8,9 +8,14 @@ Activities in IResX lab.
 
 ---
 # Academic activities
+![Zhao](https://JinZhaoTCD.github.io/images/GM_panel2025.jpg)
+* **29/07/2025**
+Dr. Zhao orginized a panel session 'Emerging Techniques for Weather-Impacted Power System Operation: A Global Perspective' on IEEE General Meeting 2025, Austin, USA.
+
+
 ![Yang](https://JinZhaoTCD.github.io/images/Shen Yang Power Tech250701.jpg)
 * **01/07/2025**
-Dr. Yang Shen delivered a presentation on PowerTech 2025 conference
+Dr. Yang Shen delivered a presentation on PowerTech 2025 conference, Kiel, Germany.
 
 
 ![Chen-Ching](https://JinZhaoTCD.github.io/images/Chen-Ching Liu Visit250620.jpg)
