@@ -53,7 +53,7 @@ PhD student since Fall 2025
 
 MS in 2025, Shanghai Jiao Tong University.
 
-Coordinated operation of coupled transportation and power grids with high renewable energy penetration
+Power systemm operation with intensive integration of large-scale data centers
 
 ![IResX](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
 * **Could be you!**
