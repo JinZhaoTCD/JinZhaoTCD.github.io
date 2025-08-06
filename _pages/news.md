@@ -7,6 +7,10 @@ author_profile: true
 This page lists activities of group members.
 
 ---
+* **July 30, 2025**
+
+Congrats! Dr. Zhao receives the IEEE PES Technical Council Award for contributions to AI-driven power system extreme weather defense and for leadership in advancing the mission of the IEEE PES community. 
+
 * **July 1, 2025**
 
 Dr. Yang Shen attended the PowerTech 2025 conference in Kiel and delivered a fabulous presentation on the topic “Zero-Trust Framework for Resilient Power Systems with Anomalous Data.”
