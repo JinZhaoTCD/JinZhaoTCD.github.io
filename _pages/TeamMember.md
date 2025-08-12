@@ -17,7 +17,7 @@ Research Fellow since Feb. 2025. [Personal website](https://scholar.google.com/c
 
 PhD in 2024, Hunan University.
 
-Research focus: Resilience of coupled communication and power system.
+Research focus: AI driven security assessment of multi-energy systems against natural disasters.
 
 * **Dr. IresX -- please see open position**
 
@@ -54,6 +54,15 @@ PhD student since Fall 2025
 MS in 2025, Shanghai Jiao Tong University.
 
 Power systemm operation with intensive integration of large-scale data centers
+
+![Yanfeng](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
+
+* **Yanfeng Wang**,
+PhD student since Fall 2025
+
+MS in 2025, Huazhong University of Science and Technology.
+
+AI-driven security assessment of multi-energy systems against natural disasters
 
 ![IResX](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
 * **Could be you!**
