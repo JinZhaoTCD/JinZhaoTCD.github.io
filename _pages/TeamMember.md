@@ -75,6 +75,8 @@ To be determinded
 
 * **2025-2026**
 
+Justin Ochoa (San Diego State Univeristy)
+
 Yuerong Zhu (Xi'an Jiaotong University)
 
 Yanyan He (Southeast University)
