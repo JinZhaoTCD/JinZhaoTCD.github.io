@@ -9,7 +9,7 @@ redirect_from:
 
 ![TCD Logo](https://JinZhaoTCD.github.io/images/TCD_logo.png)
 
-IresX (Intelligent & resilient energy system) Lab is a research group led by Dr. Jin Zhao at Trinity College Dublin, Ireland.
+IResX (Intelligent & resilient energy system) Lab is a research group led by Dr. Jin Zhao at Trinity College Dublin, Ireland.
 Our goal is to secure energy system operation using emerging techniques such as AI, optimization, and statistics.
 
 Dr. Jin Zhao is an Assistant Professor at Trinity College Dublin. She is the Alexander von Humboldt Research Fellow of Germany. She was a Research Scientist at The University of Tennessee (UTK), USA. She is a Senior Editor of IET Generation, Transmission & Distribution, Associate Editor of IEEE trans. on Smart Grid, and a regular reviewer for several IEEE and Nature Portfolio journals. She is the chair of IEEE Task Force AISR, steering committee  and PES rep of IEEE DataPort. Her research interests include power system resilience, climate adaptive energy systems, optimal operation of highly renewable energy integrated systems, resilient microgrids and machine learning.
