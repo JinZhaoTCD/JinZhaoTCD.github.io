@@ -46,7 +46,7 @@ MS in 2024, Trinity College Dublin.
 
 AI-driven low-carbon resilient microgrids
 
-![Kexing](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
+<img src="https://JinZhaoTCD.github.io/images/kexing.jpg" width="150" height="150"> 
 
 * **Kexing Li**,
 PhD student since Fall 2025
@@ -55,12 +55,12 @@ MS in 2025, Shanghai Jiao Tong University.
 
 Power systemm operation with intensive integration of large-scale data centers
 
-![Yanfeng](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
+<img src="https://JinZhaoTCD.github.io/images/yanfeng.jpg" width="150" height="150"> 
 
 * **Yanfeng Wang**,
 PhD student since Fall 2025
 
-MS in 2025, Huazhong University of Science and Technology.
+MS in 2024, Huazhong University of Science and Technology.
 
 AI-driven security assessment of multi-energy systems against natural disasters
 
