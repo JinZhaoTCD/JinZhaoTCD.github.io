@@ -53,7 +53,7 @@ PhD student since Fall 2025
 
 MS in 2025, Shanghai Jiao Tong University.
 
-Power systemm operation with intensive integration of large-scale data centers
+Power system operation with intensive integration of large-scale data centers
 
 <img src="https://JinZhaoTCD.github.io/images/yanfeng.jpg" width="150" height="150"> 
 
