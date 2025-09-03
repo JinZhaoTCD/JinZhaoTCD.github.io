@@ -7,6 +7,10 @@ author_profile: true
 This page lists activities of group members.
 
 ---
+* **Auguest 26, 2025**
+
+Congrats! Mr. Haiyang Wan published a paper "Real-Time service restoration of coupled power-water systems considering the spatio-temporal cascading failure" on IEEE Transactions on Smart Grid. [Full Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11142344)
+
 * **July 30, 2025**
 
 Congrats! Dr. Zhao receives the IEEE PES Technical Council Award for contributions to AI-driven power system extreme weather defense and for leadership in advancing the mission of the IEEE PES community. 
