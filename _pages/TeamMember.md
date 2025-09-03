@@ -17,7 +17,7 @@ Research Fellow since Feb. 2025. [Personal website](https://scholar.google.com/c
 
 PhD in 2024, Hunan University.
 
-Research focus: AI driven security assessment of multi-energy systems against natural disasters.
+Research focus: AI driven stability assessment of power-communication systems.
 
 * **Dr. IresX -- please see open position**
 
