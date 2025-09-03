@@ -14,6 +14,8 @@ Our goal is to secure energy system operation using emerging techniques such as 
 
 Dr. Jin Zhao is an Assistant Professor at Trinity College Dublin. She is the Alexander von Humboldt Research Fellow of Germany and a guest researcher of CURENT The University of Tennessee (UTK), USA. She is a Senior Editor of IET Generation, Transmission & Distribution, Associate Editor of IEEE trans. on Smart Grid, and a regular reviewer for several IEEE and Nature Portfolio journals. She is the chair of IEEE Task Force AISR, steering committee  and PES rep of IEEE DataPort, and secretary of IEEE EDPG GHG subcommittee and IEEE load subcommittee. Her research interests include power system resilience, climate adaptive energy systems, optimal operation of highly renewable energy integrated systems, resilient microgrids and machine learning.
 
+3 min vedio about our research focus [Powering the future](https://www.youtube.com/watch?v=hA8xZ619q7c).
+
 We are grateful for funding from EPA, CONNECT center, SFI.
 
 <img src="https://JinZhaoTCD.github.io/images/Research Ireland.jpg" width="200" height="150"> <img src="https://JinZhaoTCD.github.io/images/Irish_EPA_Logo.jpg" width="200" height="100">  <img src="https://JinZhaoTCD.github.io/images/Connect_logo.jpg" width="140" height="120"> <img src="https://JinZhaoTCD.github.io/images/SFI_logo.jpg" width="220" height="100"> <img src="https://JinZhaoTCD.github.io/images/Humboldt.png" width="200" height="150"> 
