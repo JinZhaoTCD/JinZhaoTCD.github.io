@@ -98,6 +98,10 @@ Hongye Zhao (Dalian University of Technology)
 
 * **2024-2025**
 
+**Anna Clark**
+
+Optimizing geographic load-shifting of datacenters to minimize emissions and congestion using sequential OPF modeling
+
 **Gunjan Shahapurkar**
 
 Analysis of renewable energy-based power generation during bad weather conditions 
