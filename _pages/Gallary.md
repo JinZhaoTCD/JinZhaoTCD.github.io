@@ -40,6 +40,11 @@ We visited the ESB substation. Sincerely thank the friendly and highly knowledge
 ---
 
 # Chill activities
+![2025Start](https://JinZhaoTCD.github.io/images/2025_Semester_Start_Group_Photo.jpg)
+* **09/2025**
+At the beginning of the new semester 2025, we held a group dinner to bid farewell to old friends and warmly welcome new ones, enjoying a relaxing time together.
+
+
 ![Glendalough](https://JinZhaoTCD.github.io/images/Glendalough2.jpg)
 * **03/2025**
 We went hiking in Glendalough and ended up walking for five hours!
