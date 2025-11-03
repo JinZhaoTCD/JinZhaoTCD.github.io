@@ -9,8 +9,8 @@ Activities in IResX lab.
 ---
 # Academic activities
 ![Zhao](https://JinZhaoTCD.github.io/images/EnergySubmit.jpg)
-* **03/10/2025**
-Dr. Zhao attend Irleand Emergy Submit as the panelist.
+* **15/10/2025**
+Dr. Zhao is invited to speak at Ireland Energy Transition Summit 2025.
 
 ![Zhao](https://JinZhaoTCD.github.io/images/GM_panel2025.jpg)
 * **29/07/2025**
@@ -44,6 +44,10 @@ We visited the ESB substation. Sincerely thank the friendly and highly knowledge
 ---
 
 # Chill activities
+![2025Start](https://JinZhaoTCD.github.io/images/2025_teacher.jpg)
+* **10/2025**
+Thanks a million to the IResX teammembers for the lovely suprise in the international teacher's day!
+
 ![2025Start](https://JinZhaoTCD.github.io/images/2025_Semester_Start_Group_Photo.jpg)
 * **09/2025**
 At the beginning of the new semester 2025, we held a group dinner to bid farewell to old friends and warmly welcome new ones, enjoying a relaxing time together.
