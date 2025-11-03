@@ -8,6 +8,10 @@ Activities in IResX lab.
 
 ---
 # Academic activities
+![Zhao](https://JinZhaoTCD.github.io/images/EnergySubmit.jpg)
+* **03/10/2025**
+Dr. Zhao attend Irleand Emergy Submit as the panelist.
+
 ![Zhao](https://JinZhaoTCD.github.io/images/GM_panel2025.jpg)
 * **29/07/2025**
 Dr. Zhao orginized a panel session 'Emerging Techniques for Weather-Impacted Power System Operation: A Global Perspective' on IEEE General Meeting 2025, Austin, USA.
