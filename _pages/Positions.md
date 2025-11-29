@@ -11,10 +11,7 @@ Open opsitions in IResX lab.
 # Research Fellow positions
 
 
-* **Postdoctoral position 1**
-
-Our lab is looking for a postdoctoral researcher working on a project related to enhancing climate adaptation and extreme weather resilience of highly renewable penetrated power systems.
-The successful candidate will work closely with Environment Protection Agency (EPA) in Ireland.
+* **Postdoctoral position 1 (filled)**
 
 For Postdoc (expected start in early 2026):
 
