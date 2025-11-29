@@ -19,9 +19,14 @@ PhD in 2024, Hunan University.
 
 Research focus: AI driven stability assessment of power-communication systems.
 
-* **Dr. IresX -- please see open position**
+![IResX](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
 
-Research focus: Climate adaptive power systems.
+* **Dr. Hanjiang Dong**
+Research Fellow since Jan. 2026 (expected). 
+
+PhD in 2025, South China University of Technology & Hong Kong Polytechnic University.
+
+Research focus: Climate adaptive multi-energy system operation/planning.
 
 
 ---
