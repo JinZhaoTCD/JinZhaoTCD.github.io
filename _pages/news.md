@@ -7,15 +7,27 @@ author_profile: true
 This page lists activities of group members.
 
 ---
-* **September 26, 2025** Congrats to Dr. Jin Zhao on being appointed as the Secretary of [IEEE PES SBLC Loads Subcommittee](https://cmte.ieee.org/pes-sblc-lsc/)
+
+* **September 25, 2025** Congrats to Dr. Jin Zhao on leading PES Technical Report PES-TR135 [AI for power system resilience: resources towards various extreme events and operation issues ](https://resourcecenter.ieee-pes.org/publications/technical-reports/pes_tr_135_psope_092525)
+
 
 * **Auguest 26, 2025** Congrats! Mr. Haiyang Wan published a paper "Real-Time service restoration of coupled power-water systems considering the spatio-temporal cascading failure" on IEEE Transactions on Smart Grid. [Full Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11142344)
 
+
+* **Auguest 1, 2025** Congrats to Dr. Jin Zhao on the published book [Enhancing Resilience in Power Distribution Systems](https://www.amazon.ie/Enhancing-Resilience-Power-Distribution-Systems/dp/0443236402) co-authored with Prof. Fangxing Li and Prof. Qingxin Shi.
+
+
 * **July 30, 2025** Congrats! Dr. Zhao receives the [IEEE PES Technical Council Award](https://www.linkedin.com/feed/update/urn:li:activity:7356545360124628992/) for contributions to AI-driven power system extreme weather defense and for leadership in advancing the mission of the IEEE PES community. 
+
+
+* **July 26, 2025** Congrats to Dr. Jin Zhao on being appointed as the Secretary of [IEEE PES SBLC Loads Subcommittee](https://cmte.ieee.org/pes-sblc-lsc/)
+
 
 * **July 1, 2025** Dr. Yang Shen attended the PowerTech 2025 conference in Kiel and delivered a fabulous presentation on the topic “Zero-Trust Framework for Resilient Power Systems with Anomalous Data.”
 
+
 * **June 23, 2025** Congrats! Dr. Yang Shen published a paper "Pioneering climate change adaptation: sustainable power systems enhanced by integrated satellite–terrestrial networks" on IEEE Energy Sustainability Magazine.[Full Article](https://ieeexplore.ieee.org/abstract/document/11040091)
+
 
 * **June 20, 2025** Prof. Chen-Ching Liu, member of the US National Academy of Engineering and American Electric Power Professor at Virginia Tech, visited the IResX Lab to engage in academic exchange and explore potential collaborations.
 
