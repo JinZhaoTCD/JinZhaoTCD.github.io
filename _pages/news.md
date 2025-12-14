@@ -8,6 +8,8 @@ This page lists activities of group members.
 
 ---
 
+* **October 25, 2025** Join now! We launched AI dataset competition with 10,000 dollars award in total [Good Datasets for AI Model Training in the Power and Energy Domain](https://ieee-dataport.org/competitions/good-datasets-ai-model-training-power-and-energy-domain)
+
 * **September 25, 2025** Congrats to Dr. Jin Zhao on leading PES Technical Report PES-TR135 [AI for power system resilience: resources towards various extreme events and operation issues ](https://resourcecenter.ieee-pes.org/publications/technical-reports/pes_tr_135_psope_092525)
 
 
