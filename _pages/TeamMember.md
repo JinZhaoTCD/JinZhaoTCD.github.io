@@ -22,7 +22,7 @@ Research focus: AI driven stability assessment of power-communication systems.
 ![IResX](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
 
 * **Dr. Hanjiang Dong**
-Research Fellow since Jan. 2026 (expected). 
+Research Fellow since Jan. 2026. 
 
 PhD in 2025, South China University of Technology & Hong Kong Polytechnic University.
 
