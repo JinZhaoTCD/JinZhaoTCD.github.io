@@ -44,7 +44,11 @@ We visited the ESB substation. Sincerely thank the friendly and highly knowledge
 ---
 
 # Chill activities
-![2025Start](https://JinZhaoTCD.github.io/images/2025_teacher.jpg)
+![2025end](https://JinZhaoTCD.github.io/images/2025ChrismasDinner.jpg)
+* **12/2025**
+End of year group dinner with Karaoke. Who is the best singer lol?
+
+![2025teacher](https://JinZhaoTCD.github.io/images/2025_teacher.jpg)
 * **10/2025**
 Thanks a million to the IResX teammembers for the lovely suprise in the international teacher's day!
 
