@@ -31,4 +31,8 @@ Preferred Qualifications: 1) Mater degree in electrical engineering. 2) Top-tier
 
 Please send your CV and Transcript to **zhaoj6@tcd.ie** to see future opportunities in 2026. Please use “Doctoral Application + Name” in the email's subject line.
 
+# Visiting/exchange positions
 
+We regularly host exchange PhD students, researchers, and highly qualified interns, though the number of available positions each year is limited.
+
+Please contact **zhaoj6@tcd.ie** with your CV.
