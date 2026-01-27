@@ -19,10 +19,11 @@ PhD in 2024, Hunan University.
 
 Research focus: AI driven stability assessment of power-communication systems.
 
-![IResX](https://JinZhaoTCD.github.io/images/image-alignment-150x150.jpg)
+
+<img src="https://JinZhaoTCD.github.io/images/hanjiang.jpg" width="150" height="150"> 
 
 * **Dr. Hanjiang Dong**
-Research Fellow since Jan. 2026. 
+Research Fellow since Jan. 2026. [Personal website](https://scholar.google.com/citations?user=kQW2fA0AAAAJ&hl=en).
 
 PhD in 2025, South China University of Technology & Hong Kong Polytechnic University.
 
@@ -101,13 +102,13 @@ Hongye Zhao (Dalian University of Technology)
 ---
 # Master students
 
-* **2024-2025**
+* **2024**
 
 **Anna Clark**
 
 Optimizing geographic load-shifting of datacenters to minimize emissions and congestion using sequential OPF modeling
 
-**Gunjan Shahapurkar**
+**Gunjan Shahapurkar**(Collen Prize in Electronic and Electrical Engineering (MAI))
 
 Analysis of renewable energy-based power generation during bad weather conditions 
 
@@ -119,7 +120,7 @@ Analysis and management of data center energy consumption
 
 Develop deep learning techniques for electric power grid reinforcement
 
-* **2023-2024**
+* **2023**
 
 **Anna Nolan**
 
