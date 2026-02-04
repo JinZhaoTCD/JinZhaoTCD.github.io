@@ -80,6 +80,7 @@ To be determinded
 # Visiting scholars 
 
 * **2025-2026**
+
 Xin Cui (The Univeristy of Hong Kong)
 
 Justin Ochoa (San Diego State Univeristy)
