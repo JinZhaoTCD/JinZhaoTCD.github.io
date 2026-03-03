@@ -14,7 +14,7 @@ author_profile: true
 
 * X. Cui, J. Zhao, C. -K. Lee and Y. Hou, "Robust Co-Planning of Dynamic Wireless Charging Lanes and Remote-Controlled Switches Under Exogenous and Endogenous Uncertainties," IEEE Transactions on Smart Grid, early access, 2026.
   
-* H. Wan, W. Liu, Q. Shi, R. Zhu, X. Zhang and J. Zhao, "Real-Time Service Restoration of Coupled Power-Water Systems Considering the Spatio-Temporal Cascading Failure," in IEEE Transactions on Smart Grid,  vol. 17, no. 1, pp. 178-192, Jan. 2026.
+* H. Wan, W. Liu, Q. Shi, R. Zhu, X. Zhang and J. Zhao, "Real-Time Service Restoration of Coupled Power-Water Systems Considering the Spatio-Temporal Cascading Failure," IEEE Transactions on Smart Grid,  vol. 17, no. 1, pp. 178-192, Jan. 2026.
 
 ---
 
