@@ -9,18 +9,26 @@ author_profile: true
 **First and last authors are recognized as senior authors** 
 
 ---
+# 2026
+* C. Li, F. Li, S. Jang, J. Zhao, S. Fan, and L. M. Tolbert, "Resilience-Oriented DG Siting and Sizing Considering Energy Vulnerability Constraint," IEEE Transactions on Smart Grid, early access, 2026.
+
+* X. Cui, J. Zhao, C. -K. Lee and Y. Hou, "Robust Co-Planning of Dynamic Wireless Charging Lanes and Remote-Controlled Switches Under Exogenous and Endogenous Uncertainties," IEEE Transactions on Smart Grid, early access, 2026.
+  
+* H. Wan, W. Liu, Q. Shi, R. Zhu, X. Zhang and J. Zhao, "Real-Time Service Restoration of Coupled Power-Water Systems Considering the Spatio-Temporal Cascading Failure," in IEEE Transactions on Smart Grid,  vol. 17, no. 1, pp. 178-192, Jan. 2026.
+
+---
 
 # 2025
-* H. Wan, W. Liu, Q. Shi, R. Zhu, X. Zhang and J. Zhao, "Real-Time Service Restoration of Coupled Power-Water Systems Considering the Spatio-Temporal Cascading Failure," in IEEE Transactions on Smart Grid, early access, 2025.
 
 * Y. Shen, Q. Zhou and J. Zhao, "Pioneering Climate Change Adaptation: Sustainable Power Systems Enhanced by Integrated Satellite–Terrestrial Networks," IEEE Energy Sustainability Magazine, vol. 1, no. 1, pp. 53-65, May 2025.
 
-* R. Zhu, H. Liu, M. Kang, W. Yu, J. Zhao, “Adversarial scenario generation integrated distributionally robust deep reinforcement learning for survival of critical loads,” IEEE Transactions on Smart Grid, early access, 2025.
+* Y. Shen, J. Zhao, P. Chen and Q. Zhou, "Zero-trust Framework for Resilient Power System with Anomalous Data," 2025 IEEE Kiel PowerTech, Kiel, Germany, 2025, pp. 1-6
+
+* R. Zhu, H. Liu, M. Kang, W. Yu, J. Zhao, “Adversarial scenario generation integrated distributionally robust deep reinforcement learning for survival of critical loads,” IEEE Transactions on Smart Grid, vol. 16, no. 5, pp. 3533-3547, Sept. 2025.
 
 * R. Zhu, H. Liu, W. Yu, W. Gu, J. Zhao, “Distributionally robust microgrid formation for service restoration in distribution systems against extended extreme events,” International Journal of Electrical Power & Energy Systems, vol. 169, p. 110720, 2025.
 
 * H. Zhao, S. Liao, B. Liu, Z. Fang, H. Wang, C. Cheng, J. Zhao, “Multi-agent optimization for short-term generation scheduling in hydropower-dominated hydro-wind-solar supply systems with considering spatiotemporal coupling constraints,” Applied Energy, vol. 382, 2025.
-
 
 ---
 
