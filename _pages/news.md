@@ -9,6 +9,8 @@ This page lists activities of group members.
 ---
 * **Feb 02, 2026** Congrats! Mr. Xin Cui published a paper "Robust Co-Planning of Dynamic Wireless Charging Lanes and Remote-Controlled Switches Under Exogenous and Endogenous Uncertainties" on IEEE Transactions on Smart Grid. [Full Article](https://ieeexplore.ieee.org/abstract/document/11370293)
 
+* **Jan 23, 2026** Welcome! Dr. Hanjiang Dong join in IResX as an Research Fellow.
+
 * **October 25, 2025** Join now! We launched AI dataset competition with 10,000 dollars award in total [Good Datasets for AI Model Training in the Power and Energy Domain](https://ieee-dataport.org/competitions/good-datasets-ai-model-training-power-and-energy-domain)
 
 * **September 25, 2025** Congrats to Dr. Jin Zhao on leading PES Technical Report PES-TR135 [AI for power system resilience: resources towards various extreme events and operation issues ](https://resourcecenter.ieee-pes.org/publications/technical-reports/pes_tr_135_psope_092525)
@@ -62,7 +64,7 @@ This page lists activities of group members.
 This data set will be of interest to you if you conduct power system resilience studies, such as weather-impacted system operations and blackouts in renewable penetrated power grids.
 
 
-* **Jan 13, 2025** Welcome! Dr. Yang Shen join in IresX as an Research Fellow.
+* **Jan 13, 2025** Welcome! Dr. Yang Shen join in IResX as an Research Fellow.
 
 
 * **Jan 10, 2025** Congrats! Miss. Hongye Zhao published a paper 'Multiagent optimization for short-term generation scheduling in hydropower-dominated hydro-wind-solar supply systems with spatiotemporal coupling constraints' on the [Applied Energy](https://www.sciencedirect.com/journal/applied-energy). [Full Article](https://www.sciencedirect.com/science/article/pii/S0306261925000546)
