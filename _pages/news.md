@@ -7,6 +7,7 @@ author_profile: true
 This page lists activities of group members.
 
 ---
+* **Feb 02, 2026** Congrats! Mr. Xin Cui published a paper "Robust Co-Planning of Dynamic Wireless Charging Lanes and Remote-Controlled Switches Under Exogenous and Endogenous Uncertainties" on IEEE Transactions on Smart Grid. [Full Article](https://ieeexplore.ieee.org/abstract/document/11370293)
 
 * **October 25, 2025** Join now! We launched AI dataset competition with 10,000 dollars award in total [Good Datasets for AI Model Training in the Power and Energy Domain](https://ieee-dataport.org/competitions/good-datasets-ai-model-training-power-and-energy-domain)
 
