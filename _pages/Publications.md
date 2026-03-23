@@ -10,6 +10,8 @@ author_profile: true
 
 ---
 # 2026
+* J. Zhao, X. Wang, X. Song, and Y Shen, "When the Extreme Events Hit – Rethinking Power System Resilience Through Meteorology, AI, Data Centers, and Beyond", IET Generation, Transmission & Distribution, March, 2026 
+
 * C. Li, F. Li, S. Jang, J. Zhao, S. Fan, and L. M. Tolbert, "Resilience-Oriented DG Siting and Sizing Considering Energy Vulnerability Constraint," IEEE Transactions on Smart Grid, early access, 2026.
 
 * X. Cui, J. Zhao, C. -K. Lee and Y. Hou, "Robust Co-Planning of Dynamic Wireless Charging Lanes and Remote-Controlled Switches Under Exogenous and Endogenous Uncertainties," IEEE Transactions on Smart Grid, early access, 2026.
