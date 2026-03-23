@@ -7,6 +7,8 @@ author_profile: true
 This page lists activities of group members.
 
 ---
+* **March 23, 2026** Congrats! Dr. Jin Zhao, Xi Wang, Xuzhe Song and Dr. Yang Shen published an high-level comcept paper "When the Extreme Events Hit – Rethinking Power System Resilience Through Meteorology, AI, Data Centers, and Beyond" on IET Generation, Transmission & Distribution. [Full Article](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/gtd2.70277)
+
 * **Feb 02, 2026** Congrats! Mr. Xin Cui published a paper "Robust Co-Planning of Dynamic Wireless Charging Lanes and Remote-Controlled Switches Under Exogenous and Endogenous Uncertainties" on IEEE Transactions on Smart Grid. [Full Article](https://ieeexplore.ieee.org/abstract/document/11370293)
 
 * **Jan 23, 2026** Welcome! Dr. Hanjiang Dong join in IResX as an Research Fellow.
