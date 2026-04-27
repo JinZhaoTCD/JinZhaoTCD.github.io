@@ -8,6 +8,10 @@ Activities in IResX lab.
 
 ---
 # Academic activities
+![Yang](https://JinZhaoTCD.github.io/images/YangShen_Colloquium.jpg)
+* **26/03/2026**
+Dr. Yang Shen gave the first EE Department colloquium titled 'Power System Resilience in a Changing Climate'.
+
 ![Zhao](https://JinZhaoTCD.github.io/images/EnergySubmit.jpg)
 * **15/10/2025**
 Dr. Zhao is invited to speak at Ireland Energy Transition Summit 2025.
