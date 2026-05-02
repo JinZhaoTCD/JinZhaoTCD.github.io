@@ -8,6 +8,10 @@ Activities in IResX lab.
 
 ---
 # Academic activities
+![Zhao](https://JinZhaoTCD.github.io/images/IEA.jpg)
+* **28/04/2026**
+Dr. Zhao visited international energy angency (IEA) in Paris to exchange views on grid resilience and energy security.
+
 ![Yang](https://JinZhaoTCD.github.io/images/YangShen_Colloquium.jpg)
 * **26/03/2026**
 Dr. Yang Shen gave the first EE Department colloquium titled 'Power System Resilience in a Changing Climate'.
