@@ -11,7 +11,7 @@ Ongoing projects in IResX
 # PSCC
 <img src="https://JinZhaoTCD.github.io/images/PSCC.jpg" width="550" height="350"> 
 
-* **Hardware-in-the-loop (HIL) platform based power system and communication system coulping**
+* **Hardware-in-the-loop (HIL) coupled power and communication system testing platform**
 
 Real-time power system operation coupled with communication network emulation to evaluate end-to-end control and protection performance under realistic conditions.
 
