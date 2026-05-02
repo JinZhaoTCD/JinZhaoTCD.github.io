@@ -8,7 +8,7 @@ Activities in IResX lab.
 
 ---
 # Academic activities
-![Zhao](https://JinZhaoTCD.github.io/images/IEA.jpg)
+![Zhao](https://JinZhaoTCD.github.io/images/IEAapril.PNG)
 * **28/04/2026**
 Dr. Zhao visited international energy angency (IEA) in Paris to exchange views on grid resilience and energy security.
 
