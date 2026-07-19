@@ -8,6 +8,10 @@ Activities in IResX lab.
 
 ---
 # Academic activities
+![Dong](https://JinZhaoTCD.github.io/images/Hanjiang.jpg)
+* **21/05/2026**
+Dr. Hanjiang Dong presented his research on climate-adaptive resilience assessment of the Ireland Power Grid at the Trinity Engineering Research and Innovation Showcase 2026.
+
 ![Zhao](https://JinZhaoTCD.github.io/images/IEAapril.png)
 * **28/04/2026**
 Dr. Zhao visited international energy angency (IEA) in Paris to exchange views on grid resilience and energy security.
@@ -52,6 +56,11 @@ We visited the ESB substation. Sincerely thank the friendly and highly knowledge
 ---
 
 # Chill activities
+2026 summer group get together & farewell to Yuerong Zhu. All the best to Yuerong, We will miss you :)
+![2026summer](https://JinZhaoTCD.github.io/images/Farewel_Yuerong.jpg)
+* **7/2026**
+
+End of year group dinner with Karaoke. Who is the best singer lol?
 ![2025end](https://JinZhaoTCD.github.io/images/2025ChrismasDinner.jpg)
 * **12/2025**
 End of year group dinner with Karaoke. Who is the best singer lol?
