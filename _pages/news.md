@@ -7,6 +7,10 @@ author_profile: true
 This page lists activities of group members.
 
 ---
+* **July 6, 2026** Congratulations to Mr. Kexing Li on the acceptance of the paper "Multi-Time-Scale Optimal Scheduling Leveraging Heterogeneous Delay Characteristics of Data Center Jobs" at [IEEE PES ISGT EUROPE 2026](https://ieee-isgt-europe.org/).
+
+* **June 23, 2026** Congratulations to Ms. Xi Wang on the acceptance of the paper "Spatio-temporal Analysis of Storm-Induced Cascading Failures in Island Power Systems," at [IEEE PES ISGT EUROPE 2026](https://ieee-isgt-europe.org/).
+  
 * **March 23, 2026** Congrats! Dr. Jin Zhao, Xi Wang, Xuzhe Song and Dr. Yang Shen published an high-level comcept paper "When the Extreme Events Hit – Rethinking Power System Resilience Through Meteorology, AI, Data Centers, and Beyond" on IET Generation, Transmission & Distribution. [Full Article](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/gtd2.70277)
 
 * **Feb 02, 2026** Congrats! Mr. Xin Cui published a paper "Robust Co-Planning of Dynamic Wireless Charging Lanes and Remote-Controlled Switches Under Exogenous and Endogenous Uncertainties" on IEEE Transactions on Smart Grid. [Full Article](https://ieeexplore.ieee.org/abstract/document/11370293)
