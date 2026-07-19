@@ -79,30 +79,46 @@ To be determinded
 
 # Visiting scholars 
 
+* **2026-2027**
+Haihang Sun(PhD, Northeast Electric Power University)
+
+Haotian Li (PhD, Xi'an Jiaotong University)
+
+Leshan Hu (Intern, Trinity College Dublin)
+
 * **2025-2026**
 
-Xin Cui (The Univeristy of Hong Kong)
+Xin Cui (PhD, The Univeristy of Hong Kong)
 
-Justin Ochoa (San Diego State Univeristy)
+Justin Ochoa (Intern, San Diego State Univeristy)
 
-Yuerong Zhu (Xi'an Jiaotong University)
+Yuerong Zhu (PhD, Xi'an Jiaotong University)
 
-Yanyan He (Southeast University)
+Yanyan He (PhD, Southeast University)
 
 * **2024-2025**
 
-Haiyang Wan (North China Electric Power University)
+Haiyang Wan (PhD, North China Electric Power University)
 
-Shimiao Chen (Central South University)
+Shimiao Chen (PhD, Central South University)
 
-Ran Zhu (Southeast University)
+Ran Zhu (PhD, Southeast University)
 
-Dr. Xiao Hu (Northeast Electric Power University)
+Dr. Xiao Hu (Faculty, Northeast Electric Power University)
 
-Hongye Zhao (Dalian University of Technology)
+Hongye Zhao (PhD, Dalian University of Technology)
 
 ---
 # Master students
+* **2025**
+
+**Maya Woolaver**
+
+3D model of Irish power grid and deep learning based power system event defense. 
+
+**Tom Flanagan**
+
+Energy consumption and carbon emissions of large language models: A repeatable methodology for training and inference energy estimation
 
 * **2024**
 
