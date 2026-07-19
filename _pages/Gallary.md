@@ -56,11 +56,11 @@ We visited the ESB substation. Sincerely thank the friendly and highly knowledge
 ---
 
 # Chill activities
-2026 summer group get together & farewell to Yuerong Zhu. All the best to Yuerong, We will miss you :)
+
 ![2026summer](https://JinZhaoTCD.github.io/images/Farewel_Yuerong.jpg)
 * **7/2026**
+2026 summer group get together & farewell to Yuerong Zhu. All the best to Yuerong, We will miss you :)
 
-End of year group dinner with Karaoke. Who is the best singer lol?
 ![2025end](https://JinZhaoTCD.github.io/images/2025ChrismasDinner.jpg)
 * **12/2025**
 End of year group dinner with Karaoke. Who is the best singer lol?
@@ -73,11 +73,9 @@ Thanks a million to the IResX teammembers for the lovely suprise in the internat
 * **09/2025**
 At the beginning of the new semester 2025, we held a group dinner to bid farewell to old friends and warmly welcome new ones, enjoying a relaxing time together.
 
-
 ![Glendalough](https://JinZhaoTCD.github.io/images/Glendalough2.jpg)
 * **03/2025**
 We went hiking in Glendalough and ended up walking for five hours!
-
 
 ![Moher](https://JinZhaoTCD.github.io/images/Cliffs_of_Moher.jpg)
 * **10/2024**
