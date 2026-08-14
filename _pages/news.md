@@ -7,7 +7,7 @@ author_profile: true
 This page lists activities of group members.
 
 ---
-* **Auguest 3, 2026** Congratulations to Ms. Xi Wang on receiving IEEE PES Travel Funding to attend [IEEE PES ISGT EUROPE 2026](https://ieee-isgt-europe.org/) in Budapest, Hungary, where she will present her accepted paper.
+* **August 3, 2026** Congratulations to Ms. Xi Wang on receiving IEEE PES Travel Funding to attend [IEEE PES ISGT EUROPE 2026](https://ieee-isgt-europe.org/) in Budapest, Hungary, where she will present her accepted paper.
 
 * **July 6, 2026** Congratulations to Mr. Kexing Li on the acceptance of the paper "Multi-Time-Scale Optimal Scheduling Leveraging Heterogeneous Delay Characteristics of Data Center Jobs" at [IEEE PES ISGT EUROPE 2026](https://ieee-isgt-europe.org/).
 
@@ -24,10 +24,10 @@ This page lists activities of group members.
 * **September 25, 2025** Congrats to Dr. Jin Zhao on leading PES Technical Report PES-TR135 [AI for power system resilience: resources towards various extreme events and operation issues ](https://resourcecenter.ieee-pes.org/publications/technical-reports/pes_tr_135_psope_092525)
 
 
-* **Auguest 26, 2025** Congrats! Mr. Haiyang Wan published a paper "Real-Time service restoration of coupled power-water systems considering the spatio-temporal cascading failure" on IEEE Transactions on Smart Grid. [Full Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11142344)
+* **August 26, 2025** Congrats! Mr. Haiyang Wan published a paper "Real-Time service restoration of coupled power-water systems considering the spatio-temporal cascading failure" on IEEE Transactions on Smart Grid. [Full Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11142344)
 
 
-* **Auguest 1, 2025** Congrats to Dr. Jin Zhao on the published book [Enhancing Resilience in Power Distribution Systems](https://www.amazon.ie/Enhancing-Resilience-Power-Distribution-Systems/dp/0443236402) co-authored with Prof. Fangxing Li and Prof. Qingxin Shi.
+* **August 1, 2025** Congrats to Dr. Jin Zhao on the published book [Enhancing Resilience in Power Distribution Systems](https://www.amazon.ie/Enhancing-Resilience-Power-Distribution-Systems/dp/0443236402) co-authored with Prof. Fangxing Li and Prof. Qingxin Shi.
 
 
 * **July 30, 2025** Congrats! Dr. Zhao receives the [IEEE PES Technical Council Award](https://www.linkedin.com/feed/update/urn:li:activity:7356545360124628992/) for contributions to AI-driven power system extreme weather defense and for leadership in advancing the mission of the IEEE PES community. 
