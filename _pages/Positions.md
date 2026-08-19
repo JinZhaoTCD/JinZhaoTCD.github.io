@@ -4,7 +4,7 @@ title: "Position"
 permalink: /position/
 author_profile: true
 ---
-Open opsitions in IResX lab.
+Open positions in IResX lab.
 
 ---
 
@@ -13,7 +13,7 @@ Open opsitions in IResX lab.
 
 * **Postdoctoral position 1 (filled)**
 
-For Postdoc (expected start in early 2026):
+For Postdoc:
 
 Required Qualifications: 1) PhD degree in electrical/environmental engineering, and 2) Good English communication ability. Preferred Qualifications: 1) Top-tier publication track with related topics, and 2) highly motivated for research.
 
@@ -27,8 +27,11 @@ Required Qualifications of PhD: 1) Good English communication ability. 2) highly
 
 Preferred Qualifications: 1) Mater degree in electrical engineering. 2) Top-tier publication track with related topics
 
-* **All positions filled in 2025**
-
+* **TCD-CSC Scholarship 2027**
+  
+Application channel will open in late 2026
+* https://www.tcd.ie/study/international/scholarships/postgraduate/csc/
+Will match Successful candidate with Trinity stipend 25k per year.
 Please send your CV and Transcript to **zhaoj6@tcd.ie** to see future opportunities in 2026. Please use “Doctoral Application + Name” in the email's subject line.
 
 # Visiting/exchange positions
