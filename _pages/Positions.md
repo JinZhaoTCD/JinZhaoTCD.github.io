@@ -29,10 +29,11 @@ Preferred Qualifications: 1) Mater degree in electrical engineering. 2) Top-tier
 
 * **TCD-CSC Scholarship 2027**
   
-Application channel will open in late 2026
-* https://www.tcd.ie/study/international/scholarships/postgraduate/csc/
-Will match Successful candidate with Trinity stipend 25k per year.
-Please send your CV and Transcript to **zhaoj6@tcd.ie** to see future opportunities in 2026. Please use “Doctoral Application + Name” in the email's subject line.
+[Application channel](https://www.tcd.ie/study/international/scholarships/postgraduate/csc/) will open in late 2026.
+
+Please contact in advance. Successful candidates will be matched with a Trinity stipend of eur25,000 per year.
+
+Please send your CV and Transcript to **zhaoj6@tcd.ie** to see future opportunities in 2027. Please use “Doctoral Application + Name” in the email's subject line.
 
 # Visiting/exchange positions
 
