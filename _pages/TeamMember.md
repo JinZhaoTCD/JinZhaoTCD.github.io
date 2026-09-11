@@ -43,6 +43,16 @@ MS in 2024, Xi'an Jiaotong University.
 
 Weather involved power system cascading failure analysis.
 
+<img src="https://JinZhaoTCD.github.io/images/Yibin.jpg" width="150" height="150"> 
+
+* **Yibin Xie**, PhD student since Fall 2024. [Personal website](https://scholar.google.com.hk/citations?user=n9YdVAcAAAAJ&hl=en).
+
+co-supervise with my colleague [Prof.Nicola Marchetti](https://nicolamarchetti.wordpress.com/) as the primary supervisor.
+
+MS in 2024, Hefei University of Technology University.
+
+Reliable and efficient communications for smart grid monitoring and control
+
 <img src="https://JinZhaoTCD.github.io/images/XuzheSong.jpg" width="150" height="150"> 
 
 * **Xuzhe Song**,
