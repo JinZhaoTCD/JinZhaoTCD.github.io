@@ -7,6 +7,8 @@ author_profile: true
 This page lists activities of group members.
 
 ---
+* **Sep 3, 2026** Congratulations to Dr. Jin Zhao on being appointed as the vice-chair of [IEEE PES SBLC Loads Subcommittee](https://cmte.ieee.org/pes-sblc-lsc/).
+
 * **August 3, 2026** Congratulations to Ms. Xi Wang on receiving IEEE PES Travel Funding to attend [IEEE PES ISGT EUROPE 2026](https://ieee-isgt-europe.org/) in Budapest, Hungary, where she will present her accepted paper.
 
 * **July 6, 2026** Congratulations to Mr. Kexing Li on the acceptance of the paper "Multi-Time-Scale Optimal Scheduling Leveraging Heterogeneous Delay Characteristics of Data Center Jobs" at [IEEE PES ISGT EUROPE 2026](https://ieee-isgt-europe.org/).
