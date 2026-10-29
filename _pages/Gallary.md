@@ -8,6 +8,26 @@ Activities in IResX lab.
 
 ---
 # Academic activities
+![Jin](https://JinZhaoTCD.github.io/images/Jin_ISGT.jpeg)
+* **21/10/2026**
+Dr. Jin Zhao attended the plenary discussion 'Navigating in uncertainty: probabilistic models and machine learning in the operation and planning of the power system and its assets to achieve robustness and sustainability' of ISGT Europe conference 2026.
+
+![Xi](https://JinZhaoTCD.github.io/images/Xi_ISGT.jpeg)
+* **20/10/2026**
+Xi Wang gave a oral presentation 'Spatio-temporal Analysis of Storm-Induced Cascading Failures in Island Power Systems' in ISGT Europe conference 2026.
+
+![Kexing](https://JinZhaoTCD.github.io/images/Kexing_ISGT.jpeg)
+* **20/10/2026**
+Kexing Li hosted a poster 'Multi-Time-Scale Optimal Scheduling Leveraging Heterogeneous Delay Characteristics of Data Center Jobs' in ISGT Europe conference 2026.
+
+![Yang](https://JinZhaoTCD.github.io/images/Yang_ISGT.jpeg)
+* **20/10/2026**
+* Dr. Yang Shen gave a presentation 'Grid interactive data center control' in the panel session 'Shaping the Future Grid Operation with AI, Data Centre, and Beyond' in ISGT Europe conference 2026.
+
+![Hanjiang](https://JinZhaoTCD.github.io/images/Hanjiang_ISGT.jpeg)
+* **19/10/2026**
+Dr. Hanjiang Dong presented his research in tutorial session 'resilient low-carbon system' of ISGT Europe conference 2026.
+
 ![Dong](https://JinZhaoTCD.github.io/images/Hanjiang.jpg)
 * **21/05/2026**
 Dr. Hanjiang Dong presented his research on climate-adaptive resilience assessment of the Ireland Power Grid at the Trinity Engineering Research and Innovation Showcase 2026.
