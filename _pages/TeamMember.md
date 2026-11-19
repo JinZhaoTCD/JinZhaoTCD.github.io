@@ -17,7 +17,7 @@ Research Fellow since Feb. 2025. [Personal website](https://scholar.google.com/c
 
 PhD in 2024, Hunan University.
 
-Research focus: AI driven stability assessment of power-communication systems.
+Research focus: AI driven stability assessment of data centr intensive systems.
 
 
 <img src="https://JinZhaoTCD.github.io/images/hanjiang.jpg" width="150" height="150"> 
@@ -60,7 +60,7 @@ PhD student since Spring 2025
 
 MS in 2024, Trinity College Dublin.
 
-AI-driven low-carbon resilient microgrids
+Reasoning AI for low-carbon resilient power systems
 
 <img src="https://JinZhaoTCD.github.io/images/kexing.jpg" width="150" height="150"> 
 
@@ -69,7 +69,7 @@ PhD student since Fall 2025
 
 MS in 2025, Shanghai Jiao Tong University.
 
-Grid operation with intensive integration of large-scale data centers
+Market driven data center flexibility for grid operation
 
 <img src="https://JinZhaoTCD.github.io/images/yanfeng.jpg" width="150" height="150"> 
 
