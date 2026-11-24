@@ -33,6 +33,10 @@ Preferred Qualifications: 1) Mater degree in electrical engineering. 2) Top-tier
 
 Please contact in advance. Successful candidates will be matched with a Trinity stipend of eur25,000 per year.
 
+* **Trinity Research Doctorate Awards 2027**
+  
+[Application channel](https://www.tcd.ie/graduatestudies/awards/trda-pi/) opened with deadline as Jan 2027.
+
 Please send your CV and Transcript to **zhaoj6@tcd.ie** to see future opportunities in 2027. Please use “Doctoral Application + Name” in the email's subject line.
 
 # Visiting/exchange positions
